@@ -5,7 +5,7 @@
   import "./styles.css";
   
   
-  const APIKEY ='4Qcbpi8o3Ne9OPbhreGPEHya5b3Y0YAb';
+  const APIKEY ='YOUR POLYGONIO API';
 
   export default function App() {
 
